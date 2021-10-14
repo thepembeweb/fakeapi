@@ -27,5 +27,29 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "dishes": [
+  {
+    "name": "Coconut Chicken Curry",
+    "desc": "A ramen noodle soup with chicken and green apple.",
+    "ingredients": [
+      "Coconut Milk",
+      "Chicken",
+      "Curry Paste",
+      "Green Apple",
+      "Ramen"
+    ]
+  },
+  {
+    "name": "Thai Lettuce Wraps",
+    "desc": "Beef or Turkey lettuce wraps.",
+    "ingredients": [
+      "Lime",
+      "Ground Turkey",
+      "Ground Beef",
+      "Butter Lettuce",
+      "Fish Sauce"
+    ]
   }
+  ]
 }
